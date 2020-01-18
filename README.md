@@ -4,7 +4,6 @@
 Android app that says "Hello from Jenny!" and has a button that changes the text color from black to blue.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/f35r52buRH.gif" width=200><br>
 
